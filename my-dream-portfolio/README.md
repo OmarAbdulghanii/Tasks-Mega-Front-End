@@ -8,8 +8,7 @@
 ![my image](assets/images/after.png)
 
 
-
-
+Required CSS Features
 
 |       Property        |          Used On            |              Example Value                 | 
 |-----------------------|-----------------------------|--------------------------------------------|
