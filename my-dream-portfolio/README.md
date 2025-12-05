@@ -5,7 +5,7 @@
 
 |       Property        |          Used On            |              Example Value                 | 
 |-----------------------|-----------------------------|--------------------------------------------|
-| External CSS file     | head tag                    |  <link rel="stylesheet" href="style.css">  |
+| External CSS file     | head tag                    |  link rel="stylesheet" href="style.css"    |
 | Color                 | .btn or .social a           |  blue                                      |
 | background-color      |  body                       |  #829fcf98                                 |
 | background-image      | .project                    | url('assets/bg.jpg')                       |
